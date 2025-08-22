@@ -3,7 +3,7 @@ function isPalindrome(str) {
     
 }
 console.log(isPalindrome("madam"))//true
-console.log(isPalindrome("hello"))//true
+console.log(isPalindrome("hello"))
 
 
 //readsSameBackward.js
